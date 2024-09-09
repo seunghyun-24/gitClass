@@ -1,5 +1,2 @@
-dfa<<<<<<aassd HE
 This is a branchB file
-=======
 This is branchA file
->>>>>>> main
